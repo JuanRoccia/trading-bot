@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+env/
+.env
+*.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración sensibles
+config.ini
+secrets.yml
